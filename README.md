@@ -27,6 +27,7 @@ Este é um projeto simples desenvolvido com **HTML, CSS e JavaScript** que permi
 
 ## 📷 Captura de Tela
 > *(Adicione aqui uma imagem da interface do projeto)*
+> ![Texto Alternativo](calc.png)
 
 ## 📌 Melhorias Futuras
 - Adicionar armazenamento local para salvar os dados.
